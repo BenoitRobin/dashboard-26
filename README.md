@@ -1,4 +1,6 @@
-# sv
+# dashboard-26
+
+Repo: https://github.com/BenoitRobin/dashboard-26
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
